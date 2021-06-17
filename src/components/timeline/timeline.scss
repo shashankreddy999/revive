@@ -1,0 +1,22 @@
+@import "../../globals.scss";
+
+.vertical-timeline-element-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 50px;
+  height: 50px;
+  margin: 10px;
+  border-radius: 50%;
+  background-color: $mainColor;
+  box-shadow: 0 0 0 4px #fff, inset 0 2px 0 rgb(0, 0, 0),
+    0 3px 0 4px rgb(0, 0, 0);
+}
+element.style {
+  background-color: rgb(38, 54, 143);
+  color: rgb(255, 255, 255);
+}
+
+h4 {
+  font-size: 14px;
+}
