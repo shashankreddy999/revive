@@ -10,7 +10,13 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
-    "web-vitals": "^1.0.1"
+    "web-vitals": "^1.0.1",
+    "@material-ui/core": "^4.11.4",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/lab": "^4.0.0-alpha.58",
+    "ityped": "^1.0.3",
+    "react-chrono": "^1.10.0",
+    "react-vertical-timeline-component": "^3.3.3"
   },
   "scripts": {
     "start": "react-scripts start",
