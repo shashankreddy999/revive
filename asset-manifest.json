@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/revive/static/css/main.1e443273.chunk.css",
+    "main.js": "/revive/static/js/main.38a93475.chunk.js",
+    "main.js.map": "/revive/static/js/main.38a93475.chunk.js.map",
+    "runtime-main.js": "/revive/static/js/runtime-main.f7e76b45.js",
+    "runtime-main.js.map": "/revive/static/js/runtime-main.f7e76b45.js.map",
+    "static/css/2.2aa38b9c.chunk.css": "/revive/static/css/2.2aa38b9c.chunk.css",
+    "static/js/2.a6c1e088.chunk.js": "/revive/static/js/2.a6c1e088.chunk.js",
+    "static/js/2.a6c1e088.chunk.js.map": "/revive/static/js/2.a6c1e088.chunk.js.map",
+    "index.html": "/revive/index.html",
+    "static/css/2.2aa38b9c.chunk.css.map": "/revive/static/css/2.2aa38b9c.chunk.css.map",
+    "static/css/main.1e443273.chunk.css.map": "/revive/static/css/main.1e443273.chunk.css.map",
+    "static/js/2.a6c1e088.chunk.js.LICENSE.txt": "/revive/static/js/2.a6c1e088.chunk.js.LICENSE.txt",
+    "static/media/right-arrow.4a3b0519.png": "/revive/static/media/right-arrow.4a3b0519.png",
+    "static/media/shake.c7165a1f.svg": "/revive/static/media/shake.c7165a1f.svg",
+    "static/media/shas_cropped_enhance.0366bec1.png": "/revive/static/media/shas_cropped_enhance.0366bec1.png",
+    "static/media/twitter.94db4a07.png": "/revive/static/media/twitter.94db4a07.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7e76b45.js",
+    "static/css/2.2aa38b9c.chunk.css",
+    "static/js/2.a6c1e088.chunk.js",
+    "static/css/main.1e443273.chunk.css",
+    "static/js/main.38a93475.chunk.js"
+  ]
+}
