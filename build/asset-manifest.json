@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/revive/static/css/main.9721cf0e.chunk.css",
+    "main.js": "/revive/static/js/main.8515082a.chunk.js",
+    "main.js.map": "/revive/static/js/main.8515082a.chunk.js.map",
+    "runtime-main.js": "/revive/static/js/runtime-main.f7e76b45.js",
+    "runtime-main.js.map": "/revive/static/js/runtime-main.f7e76b45.js.map",
+    "static/css/2.2aa38b9c.chunk.css": "/revive/static/css/2.2aa38b9c.chunk.css",
+    "static/js/2.ce6978df.chunk.js": "/revive/static/js/2.ce6978df.chunk.js",
+    "static/js/2.ce6978df.chunk.js.map": "/revive/static/js/2.ce6978df.chunk.js.map",
+    "index.html": "/revive/index.html",
+    "static/css/2.2aa38b9c.chunk.css.map": "/revive/static/css/2.2aa38b9c.chunk.css.map",
+    "static/css/main.9721cf0e.chunk.css.map": "/revive/static/css/main.9721cf0e.chunk.css.map",
+    "static/js/2.ce6978df.chunk.js.LICENSE.txt": "/revive/static/js/2.ce6978df.chunk.js.LICENSE.txt",
+    "static/media/footer.scss": "/revive/static/media/darkened_bg_crop.6e64f5d5.png",
+    "static/media/intro.scss": "/revive/static/media/doodled.3102893d.png",
+    "static/media/right-arrow.4a3b0519.png": "/revive/static/media/right-arrow.4a3b0519.png",
+    "static/media/shake.c7165a1f.svg": "/revive/static/media/shake.c7165a1f.svg",
+    "static/media/shas_cropped_enhance.0366bec1.png": "/revive/static/media/shas_cropped_enhance.0366bec1.png",
+    "static/media/testimonials.scss": "/revive/static/media/testimonial2.9f817e23.jpg",
+    "static/media/twitter.94db4a07.png": "/revive/static/media/twitter.94db4a07.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7e76b45.js",
+    "static/css/2.2aa38b9c.chunk.css",
+    "static/js/2.ce6978df.chunk.js",
+    "static/css/main.9721cf0e.chunk.css",
+    "static/js/main.8515082a.chunk.js"
+  ]
+}
