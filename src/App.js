@@ -7,6 +7,7 @@ import Topbar from "./components/topbar/Topbar";
 import Works from "./components/works/Works";
 import "./App.scss";
 import Menu from "./components/menu/Menu";
+import Footer from "./components/footer/Footer";
 
 function App() {
   const [menuOpen, setmenuOpen] = useState(false);
@@ -19,7 +20,7 @@ function App() {
         <Portfolio />
         <Works />
         <Testimonials />
-        <Contact />
+        <Footer />
       </div>
     </div>
   );
