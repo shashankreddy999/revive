@@ -55,7 +55,6 @@ function Portfolio() {
       default:
         setData(featuredPortfolio);
     }
-    console.log(data);
   }, [selected]);
 
   return (

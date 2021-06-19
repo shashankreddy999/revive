@@ -31,7 +31,7 @@ function Intro() {
           </h3>
         </div>
         <a href="#portfolio">
-          <img src={down}></img>
+          <img src={down} alt=""></img>
         </a>
       </div>
     </div>

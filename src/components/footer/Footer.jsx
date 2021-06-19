@@ -90,13 +90,18 @@ function Footer() {
               <a
                 href="https://www.linkedin.com/in/shashank-reddy-boyapally-938bba167/"
                 target="_blank"
+                rel="noreferrer"
               >
                 <LinkedInIcon></LinkedInIcon>
                 <span>Linkedin</span>
               </a>
             </li>
             <li>
-              <a href="https://github.com/shashankreddy999" target="_blank">
+              <a
+                href="https://github.com/shashankreddy999"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <GitHubIcon></GitHubIcon>
                 <span>GitHub</span>
               </a>
@@ -105,13 +110,18 @@ function Footer() {
               <a
                 href="https://www.instagram.com/shashank._reddy_/"
                 target="_blank"
+                rel="noreferrer"
               >
                 <InstagramIcon></InstagramIcon>
                 <span>Instagram</span>
               </a>
             </li>
             <li>
-              <a href="https://twitter.com/Shashank_Reddy6" target="_blank">
+              <a
+                href="https://twitter.com/Shashank_Reddy6"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <TwitterIcon />
                 <span>Twitter</span>
               </a>
